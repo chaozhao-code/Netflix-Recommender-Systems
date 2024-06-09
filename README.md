@@ -12,15 +12,10 @@ We use the MovieLens 1M Dataset from [Grouplens](https://grouplens.org/datasets/
 
 Naive Approaches:
 
-![CleanShot 2024-06-09 at 13.02.21@2x](/Users/leo/Library/Application Support/CleanShot/media/media_NnQTsYBLAI/CleanShot 2024-06-09 at 13.02.21@2x.png)
-
 UV Matrix Decomposition:
-
-![CleanShot 2024-06-09 at 13.02.59@2x](/Users/leo/Library/Application Support/CleanShot/media/media_FWg9e29JK0/CleanShot 2024-06-09 at 13.02.59@2x.png)
 
 Matrix Factorization:
 
-![CleanShot 2024-06-09 at 13.03.19@2x](/Users/leo/Library/Application Support/CleanShot/media/media_vPofqvSB4q/CleanShot 2024-06-09 at 13.03.19@2x.png)
 
 ### Enviroment Requirement
 
