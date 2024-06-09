@@ -1,0 +1,9 @@
+python MF.py --num_factors=10 --regularization=0.05 --learn_rate=0.005 --num_iter=75
+python MF.py --num_factors=10 --regularization=0.1 --learn_rate=0.005 --num_iter=75
+python MF.py --num_factors=10 --regularization=0.01 --learn_rate=0.005 --num_iter=75
+python MF.py --num_factors=5 --regularization=0.05 --learn_rate=0.005 --num_iter=75
+python MF.py --num_factors=100 --regularization=0.05 --learn_rate=0.005 --num_iter=75
+python MF.py --num_factors=10 --regularization=0.05 --learn_rate=0.001 --num_iter=75
+python MF.py --num_factors=10 --regularization=0.05 --learn_rate=0.01 --num_iter=75
+python MF.py --num_factors=10 --regularization=0.05 --learn_rate=0.005 --num_iter=50
+python MF.py --num_factors=10 --regularization=0.05 --learn_rate=0.005 --num_iter=100
