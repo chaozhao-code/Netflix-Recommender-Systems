@@ -10,11 +10,13 @@ We use the MovieLens 1M Dataset from [Grouplens](https://grouplens.org/datasets/
 
 ### Methods
 
-Naive Approaches:
+Naive Approaches
 
-UV Matrix Decomposition:
+UV Matrix Decomposition
 
-Matrix Factorization:
+Matrix Factorization
+
+*Please see the report for detailed information.*
 
 
 ### Enviroment Requirement
